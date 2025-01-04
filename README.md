@@ -42,3 +42,56 @@ Chapter-2 Getting Started with React
     - Index.css (Render style to the index.html file)
     - App.js - For starting the react code rendering 
     - Webpack is for compaile all file to single file
+
+
+
+
+Chapter-3 React Basics
+
+#I JSX
+    - App.js file function return (JSX code means JS XML code)
+    - Developer tool -> Sources -> static-js-bundle.js (For render all file for working all browser)
+#II Components
+    - Each function is each component in same file (Example commented in index.js file)
+    - Each component have one parent element.
+    - Seperate the component in seperate file.
+    - Export car file and import in garage file and export the garage file and import in index.js file
+#1 Class Component
+    - Create one class file and exort and import same as function coponent.
+
+#2 Props in Func Component
+#3 Props in Class Component
+
+#4 React Developer Tool
+    - React developer tool extension
+    - Developer tool -> Components structure like html.
+    - Inside components show the props
+
+#5 Conditional Rendering
+
+#6 List
+#7 List Keys
+
+#8 Inline CSS
+#9 CSS sheet
+
+#10 State in Function Components
+#11 State in Class Components
+
+#12 Multiple State in Hooks
+#13 State with object
+
+#14 Set Func state with object
+#15 SetClass state with object
+
+#16 Update Array in Func state
+
+#17 useEffect
+#18 useEffect in different way
+
+#19 Create Forms
+#20 Getting Input value to State
+#21 Submit form
+#22 Multiple value submit
+#23 Simplyfying multiply submit
+#24 Setting initial value 
