@@ -119,3 +119,11 @@ Chapter-6 Request and response in reactjs
 #1 Project setup
     - JSON placeholder (https://jsonplaceholder.typicode.com/)
     - https://jsonplaceholder.typicode.com/users
+
+
+
+Chapter-7 
+    - Create component
+    - Create test suit file for component
+    - npm install --save-dev @testing-library/react (import { render, screen } from '@testing-library/react';)
+    - npm install --save-dev @testing-library/jest-dom (import '@testing-library/jest-dom';)

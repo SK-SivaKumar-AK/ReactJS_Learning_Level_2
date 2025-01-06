@@ -117,7 +117,11 @@ import reportWebVitals from './reportWebVitals';
 
 
 /* HTTP Read data */
-import Main from './6_2_HttpRead/Main'
+//import Main from './6_2_HttpRead/Main'
+
+
+/* Unit Testing */
+import Main from './7_1_UnitTesting/Main';
 
 
 
