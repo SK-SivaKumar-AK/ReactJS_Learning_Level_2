@@ -116,13 +116,18 @@ import reportWebVitals from './reportWebVitals';
 //import Main from './5_6_NavigationRouter/Main'
 
 
+/* HTTP Read data */
+import Main from './6_2_HttpRead/Main'
+
+
+
 
 
 /* Rendering area */
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <Main /> */}
+    <Main />
   </React.StrictMode>
 );
 

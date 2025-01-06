@@ -111,3 +111,11 @@ Chapter-5 React Router
 #4 Router Parameter
 #5 Nested Routes
 #6 Navigation Router
+
+
+
+Chapter-6 Request and response in reactjs
+
+#1 Project setup
+    - JSON placeholder (https://jsonplaceholder.typicode.com/)
+    - https://jsonplaceholder.typicode.com/users
