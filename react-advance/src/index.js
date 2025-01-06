@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-//import App from './App';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -93,7 +93,7 @@ import reportWebVitals from './reportWebVitals';
 //import MyForm from './3_23_SimplifyMultiSubmit/MyForm';
 
 /* Setting initial value */
-import MyForm from './3_24_SettingInitialValue/MyForm';
+//import MyForm from './3_24_SettingInitialValue/MyForm';
 
 
 
@@ -102,9 +102,9 @@ import MyForm from './3_24_SettingInitialValue/MyForm';
 /* Rendering area */
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <>
-    <MyForm />
-  </>
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
