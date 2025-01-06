@@ -10,7 +10,7 @@ function Result(props){
             result = 'Higher';
         }else if(term < secretNumber){
             result = 'Lower';
-        }else if(term == secretNumber){
+        }else if(term === secretNumber){
             result = 'Yipee! correct';
         }else{
             result = 'Enter Valid input!';

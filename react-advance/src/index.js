@@ -97,7 +97,23 @@ import reportWebVitals from './reportWebVitals';
 
 
 /* Code Challenge */
-import FrontPage from './4_0_ProjectEx/FrontPage';
+//import FrontPage from './4_0_ProjectEx/FrontPage';
+
+
+/* Router Setup */
+//import Main from './5_2_RouterSetup/Main';
+
+/* Router Links */
+//import Main from './5_3_RouterLinks/Main';
+
+/* Router parameter */
+//import Main from './5_4_RouterParams/Main';
+
+/* Nested Routes */
+//import Main from './5_5_NestedRoutes/Main';
+
+/* Navigation in Router */
+//import Main from './5_6_NavigationRouter/Main'
 
 
 
@@ -106,7 +122,7 @@ import FrontPage from './4_0_ProjectEx/FrontPage';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <FrontPage />
+    {/* <Main /> */}
   </React.StrictMode>
 );
 
