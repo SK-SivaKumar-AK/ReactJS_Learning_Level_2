@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+//import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -96,6 +96,9 @@ import reportWebVitals from './reportWebVitals';
 //import MyForm from './3_24_SettingInitialValue/MyForm';
 
 
+/* Code Challenge */
+import FrontPage from './4_0_ProjectEx/FrontPage';
+
 
 
 
@@ -103,7 +106,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <FrontPage />
   </React.StrictMode>
 );
 
