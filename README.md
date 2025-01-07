@@ -122,8 +122,41 @@ Chapter-6 Request and response in reactjs
 
 
 
-Chapter-7 
+Chapter-7 Testing basic
     - Create component
     - Create test suit file for component
     - npm install --save-dev @testing-library/react (import { render, screen } from '@testing-library/react';)
     - npm install --save-dev @testing-library/jest-dom (import '@testing-library/jest-dom';)
+
+
+
+Chapter-8 E-commerce Project
+    - Backend setup 
+        - npm init
+        - create app.js
+        - npm i nodemon 
+        - nodemon app.js in package.json
+        - npm i express
+    - Config the varibale
+        - Create .env file
+        - npm i dotenv
+        - process.env.<!-- Variable -->
+    - Creating Routes & Controllers
+        - Install extension : Thunder client
+    - Connecting database
+        - npm i mongoose
+    - Creating model file
+
+Chapter-9 E-commerce project
+    - Front end setup
+    - npm i cors in backend folder
+    - Frontend Project Setup
+    - Creating HomePage
+    - Creating Header & Footer Components
+    - Breaking Page to Components
+    - Integrating Get Products API
+    - Fixing CORS Error
+    - Showing Product Card Details
+    - Implementing Product Search
+    - Creating Product Detail Page
+    - npm i react-toastify
